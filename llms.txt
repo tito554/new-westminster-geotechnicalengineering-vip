@@ -1,0 +1,46 @@
+# Geotechnicalengineering — New Westminster
+
+> Geotechnical engineering services in New Westminster, Canada.
+
+## Services
+- [Anchors](https://new-westminster.geotechnicalengineering.vip/anchors/)
+- [Atterberg Limits](https://new-westminster.geotechnicalengineering.vip/atterberg-limits/)
+- [Cpt Test](https://new-westminster.geotechnicalengineering.vip/cpt-test/)
+- [Deep Excavations](https://new-westminster.geotechnicalengineering.vip/deep-excavations/)
+- [Excavations](https://new-westminster.geotechnicalengineering.vip/excavations/)
+- [Flexible Pavement](https://new-westminster.geotechnicalengineering.vip/flexible-pavement/)
+- [Footings](https://new-westminster.geotechnicalengineering.vip/footings/)
+- [Foundations](https://new-westminster.geotechnicalengineering.vip/foundations/)
+- [Geophysics](https://new-westminster.geotechnicalengineering.vip/geophysics/)
+- [Grain Size](https://new-westminster.geotechnicalengineering.vip/grain-size/)
+- [Ground Improvement](https://new-westminster.geotechnicalengineering.vip/ground-improvement/)
+- [Grouting](https://new-westminster.geotechnicalengineering.vip/grouting/)
+- [In Situ Permeability](https://new-westminster.geotechnicalengineering.vip/in-situ-permeability/)
+- [Investigation](https://new-westminster.geotechnicalengineering.vip/investigation/)
+- [Lab In Situ](https://new-westminster.geotechnicalengineering.vip/lab-in-situ/)
+- [Laboratory](https://new-westminster.geotechnicalengineering.vip/laboratory/)
+- [Liquefaction](https://new-westminster.geotechnicalengineering.vip/liquefaction/)
+- [Mat Foundations](https://new-westminster.geotechnicalengineering.vip/mat-foundations/)
+- [Plate Load Test](https://new-westminster.geotechnicalengineering.vip/plate-load-test/)
+- [Resistivity](https://new-westminster.geotechnicalengineering.vip/resistivity/)
+- [Retaining Walls](https://new-westminster.geotechnicalengineering.vip/retaining-walls/)
+- [Road Geotechnics](https://new-westminster.geotechnicalengineering.vip/road-geotechnics/)
+- [Sand Cone Density](https://new-westminster.geotechnicalengineering.vip/sand-cone-density/)
+- [Seismic](https://new-westminster.geotechnicalengineering.vip/seismic/)
+- [Seismic Isolation](https://new-westminster.geotechnicalengineering.vip/seismic-isolation/)
+- [Seismic Microzonation](https://new-westminster.geotechnicalengineering.vip/seismic-microzonation/)
+- [Seismic Refraction](https://new-westminster.geotechnicalengineering.vip/seismic-refraction/)
+- [Slopes](https://new-westminster.geotechnicalengineering.vip/slopes/)
+- [Soft Ground Tunnels](https://new-westminster.geotechnicalengineering.vip/soft-ground-tunnels/)
+- [Spt Drilling](https://new-westminster.geotechnicalengineering.vip/spt-drilling/)
+- [Stone Columns](https://new-westminster.geotechnicalengineering.vip/stone-columns/)
+- [Test Pits](https://new-westminster.geotechnicalengineering.vip/test-pits/)
+- [Triaxial](https://new-westminster.geotechnicalengineering.vip/triaxial/)
+- [Vibrocompaction](https://new-westminster.geotechnicalengineering.vip/vibrocompaction/)
+
+## Contact
+- Website: https://new-westminster.geotechnicalengineering.vip/
+
+## About
+This site provides geotechnical engineering services in New Westminster, Canada.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
